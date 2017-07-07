@@ -1,0 +1,32 @@
+body { padding-top: 25px; }
+
+.jumbotron {
+  background-color: black;
+  opacity: 0.75;
+  color: white;
+}
+
+.one {
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-size: 14px;
+  color: #1A5276;
+  padding: 20px;
+  margin: 20px;
+}
+
+blockquote {
+  padding-top: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 20px;
+  margin-left: 10%;
+  background-color: lightgray;
+  color: white;
+  float: left;
+}
